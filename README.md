@@ -1,5 +1,6 @@
-## Hi there 👋
+## Summary
 
+I'm currently working on getting my master's degree and I'm also working at Keysight. I am incredibly interested in compilers! Feel free to reach out.
 <!--
 **Destroyerrrocket/Destroyerrrocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
